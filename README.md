@@ -27,6 +27,10 @@ This is a 3 step approach:
 | 1600                        | 1300 | 1950 | 2250 | 3200 | 3850 | 4500 | 5150 | 5800 | 6450 | 7050 |
 | 2000                        | 1850 | 2800 | 3700 | 4650 | 5550 | 6500 | 8350 | 8350 | 9300 | 10200 |
 
+
+&nbsp;
+
+
 3. Build up the number of steps carefully, keeping in line with the steps/time guide.
 
 &nbsp;
