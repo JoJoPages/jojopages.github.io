@@ -8,7 +8,7 @@
 
 This is a 3 step approach:
 
-1. Guage comfortable baseline number of steps (1-2 days).
+1. Find a comfortable baseline number of steps (1-2 days).
 2. Use the tables as **a guide to spread activity through the day**. Try to keep in range. If you've hit the steps too early, make sure you rest! Don't worry too much if you're under, but try to get near.
 
 |Time(24hr)&darr;/Steps&rarr; | 700 | 800 | 900 | 1000 | 1250 | 1500 |
@@ -62,7 +62,7 @@ This is not a 'quick fix'. Convalescence takes time. That said, I noticed signif
 
 ## Method
 
-### Step 1 - Gauge Current Activity
+### Step 1 - Find Comfortable Baseline
 
 1. Spend 1-2 days doing what you are currently doing to gauge how active you really are. Try to notice WHEN you are being active. DO NOT push yourself during these days. **You need to find a baseline you can manage**.
 
