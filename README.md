@@ -73,7 +73,7 @@ This is not a 'quick fix'. Convalescence takes time. That said, I noticed signif
 
 1. Set a specific wake time (6-8am?)
 
-2. Use the [Steps Table Guide](#how-to-use-the-steps-table) below, or print [Steps Calculator.xlsx](https://github.com/JsAndDotNet/Fitbit/blob/main/Steps%20Calculator.xlsx) to guide spreading your steps out during the day at the existing level. Aim for the current number of steps, but spread evenly through the day.
+2. Use the [Steps Table Guide](#how-to-use-the-steps-table) below, or print [Steps Calculator.xlsx](https://github.com/JoJoPages/jojopages.github.io/blob/main/Steps%20Calculator.xlsx) to guide spreading your steps out during the day at the existing level. Aim for the current number of steps, but spread evenly through the day.
 
 **NOTE: The table is the key point of this whole method. It is a target to match, NOT a target to beat! This means, if you have hit your target too early - you should rest!** 
 
@@ -129,7 +129,7 @@ The main idea is to spread steps out through the day.
 | 1600                        | 1300 | 1950 | 2250 | 3200 | 3850 | 4500 | 5150 | 5800 | 6450 | 7050 |
 | 2000                        | 1850 | 2800 | 3700 | 4650 | 5550 | 6500 | 8350 | 8350 | 9300 | 10200 |
 
-The formula is in [Steps Calculator.xlsx](https://github.com/JsAndDotNet/Fitbit/blob/main/Steps%20Calculator.xlsx). Click 'View raw' to download/ print/ adjust to your own preference.
+The formula is in [Steps Calculator.xlsx](https://github.com/JoJoPages/jojopages.github.io/blob/main/Steps%20Calculator.xlsx). Click 'View raw' to download/ print/ adjust to your own preference.
 
 #### Higher Steps Adjusted
 
