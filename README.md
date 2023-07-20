@@ -29,7 +29,7 @@ This is a 3 step approach:
 
 3. Build up the number of steps carefully, keeping in line with the steps/time guide.
 
-> NOTE: For Long Covid, this is intended to be part of a wider strategy of [rehabilitation](/covid-rehab-journal.pdf). For me, this steps guide almost eliminated 'boom and bust' and was massively beneficial. 
+&nbsp;
 
 My full experience is detailed in the [results](#my-experience-results) and my approx daily routine [here](/long-covid-log.md).
 
