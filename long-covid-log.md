@@ -48,7 +48,7 @@ I was in bed, but on my phone 4 hours a DAY! So, I cut out all phone usage excep
 
 ### Be Wary of Long Covid Forums
 
-Firstly, I'm NOT talking here about the MOST EXCELLENT sites like Nuffield https://www.nuffieldhealth.com/covid-rehab .
+Firstly, I'm NOT talking here about the MOST EXCELLENT sites like [Nuffield](https://www.nuffieldhealth.com/covid-rehab).
 
 I'm talking about the Facebook etc forums that exist for 'Long Covid Communities'.
 
@@ -92,9 +92,9 @@ Trying to get 'better by x date' was a mindset I had to get rid of in order to g
 
 Being in the 'Now' feels like the last place you want to be, but mindfulness and meditation really worked. It took a few weeks to feel the benefits.
 
-- https://www.calm.com/
+-- [Calm](https://www.calm.com/)
 
- 'Practicing The Power of Now' (https://www.amazon.co.uk/Practising-Power-Now-Meditations-Exercises/dp/0340822538)
+ [Practicing The Power of Now'](https://www.amazon.co.uk/Practising-Power-Now-Meditations-Exercises/dp/0340822538)
 
 &nbsp;
 
@@ -108,9 +108,9 @@ I highly recommend all of Paul McKenna books on Anxiety, Stress and Sleep.
 - Freedom from anxiety (Paul McKenna)
 
 There are excellent Free Hypnosis Recodings:
-Anxiety - https://www.youtube.com/watch?v=invPy-f_DPA
+[Anxiety](https://www.youtube.com/watch?v=invPy-f_DPA)
 
-Full List - https://www.youtube.com/watch?v=QQA9Yp7gjf0&list=PLHZnhN3fKuAY6CsC7i79Uv6OHf0iA8L7f
+[Full List](https://www.youtube.com/watch?v=QQA9Yp7gjf0&list=PLHZnhN3fKuAY6CsC7i79Uv6OHf0iA8L7f)
 
 
 &nbsp;
@@ -119,9 +119,9 @@ Full List - https://www.youtube.com/watch?v=QQA9Yp7gjf0&list=PLHZnhN3fKuAY6CsC7i
 
 Getting a good nights sleep was hard. Again, Paul McKennas book on sleep was excellent. 
 
-There's a free hypnosis here:
+There's a free hypnosis [here](https://www.youtube.com/watch?v=_LA5UlfYrII&list=PLHZnhN3fKuAY6CsC7i79Uv6OHf0iA8L7f&index=2):
 
-https://www.youtube.com/watch?v=_LA5UlfYrII&list=PLHZnhN3fKuAY6CsC7i79Uv6OHf0iA8L7f&index=2
+
 
 Actions:
 
